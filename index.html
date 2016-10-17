@@ -10,96 +10,66 @@
   <body>
     <div id="map" class="map"></div>
     <script>
-      var myDom = {
-        points: {
-          text: 'wrap',
-          align: 'center',
-          baseline: 'middle',
-          rotation: 0,
-          font: 'Arial',
-          weight: 'normal',
-          size: '12px',
-          offsetX: 0,
-          offsetY: 0,
-          color: 'black',
-          outline: 'black',
-          outlineWidth: '1px',
-          maxreso: 1200
-        }
-      }
-      // http://stackoverflow.com/questions/14484787/wrap-text-in-javascript
-      function stringDivider(str, width, spaceReplacer) {
-        if (str.length > width) {
-          var p = width;
-          while (p > 0 && (str[p] != ' ' && str[p] != '-')) {
-            p--;
-          }
-          if (p > 0) {
-            var left;
-            if (str.substring(p, p + 1) == '-') {
-              left = str.substring(0, p + 1);
-            } else {
-              left = str.substring(0, p);
-            }
-            var right = str.substring(p + 1);
-            return left + spaceReplacer + stringDivider(right, width, spaceReplacer);
-          }
-        }
-        return str;
-      }
-      var getText = function(feature, resolution, dom) {
-        var type = dom.text.value;
-        var maxResolution = dom.maxreso.value;
+
+      var getText = function(feature, resolution) {
+        var type = 'normal';
+        var maxResolution = 1200;
         var text = feature.get('name');
 
         if (resolution > maxResolution) {
+          console.log('test this');
           text = '';
         } else if (type == 'hide') {
           text = '';
         } else if (type == 'shorten') {
           text = text.trunc(12);
-        } else if (type == 'wrap') {
-          text = stringDivider(text, 16, '\n');
         }
 
         return text;
       };
 
-      var createTextStyle = function(feature, resolution, dom) {
-        var align = dom.align.value;
-        var baseline = dom.baseline.value;
-        var size = dom.size.value;
-        var offsetX = parseInt(dom.offsetX.value, 10);
-        var offsetY = parseInt(dom.offsetY.value, 10);
-        var weight = dom.weight.value;
-        var rotation = parseFloat(dom.rotation.value);
-        var font = weight + ' ' + size + ' ' + dom.font.value;
-        var fillColor = dom.color.value;
-        var outlineColor = dom.outline.value;
-        var outlineWidth = parseInt(dom.outlineWidth.value, 10);
+      var createTextStyle = function(feature, resolution) {
+        var align = 'center';
+        var font = 'Arial'
+        var baseline = 'middle';
+        var size = '12px';
+        var offsetX = 0;
+        var offsetY = 0;
+        var weight = 'normal';
+        var rotation = 0.0;
+        var font = weight + ' ' + size + ' ' + font;
+        var fillColor = '#000000';
+        var outlineColor = '#000000';
+        var outlineWidth = 3;
 
-        return new ol.style.Text({
+        var text = new ol.style.Text({
           textAlign: align,
           textBaseline: baseline,
           font: font,
-          text: getText(feature, resolution, dom),
-          fill: new ol.style.Fill({color: fillColor}),
+          text: getText(feature, resolution),
+          fill: new ol.style.Fill({color: 'rgba(255, 255, 255, 1)'}),
           stroke: new ol.style.Stroke({color: outlineColor, width: outlineWidth}),
           offsetX: offsetX,
           offsetY: offsetY,
           rotation: rotation
         });
+        console.log('OL TEXT: ')
+        console.log(text);
+        return text;
       };
 
       function companyStyleFunction(feature, resolution) {
-        return new ol.style.Style({
-          text: createTextStyle(feature, resolution, myDom.points),
+        var style = new ol.style.Style({
+          text: createTextStyle(feature, resolution),
           image: new ol.style.Circle({
             radius: 10,
             fill: new ol.style.Fill({color: 'rgba(255, 0, 0, 0.1)'}),
             stroke: new ol.style.Stroke({color: 'red', width: 1})
           })
         });
+        console.log('OL STYLE: ');
+        console.log(style);
+        return style;
       }
 
       var companiesUrl = "companies.geojson"
