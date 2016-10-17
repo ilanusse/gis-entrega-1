@@ -4,10 +4,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>-58.460868</xmin>
-            <ymin>-34.685160</ymin>
-            <xmax>-58.342590</xmax>
-            <ymax>-34.608170</ymax>
+            <xmin>-58.443078</xmin>
+            <ymin>-34.666755</ymin>
+            <xmax>-58.374582</xmax>
+            <ymax>-34.622170</ymax>
         </extent>
         <projections>0</projections>
         <destinationsrs>
@@ -24,14 +24,14 @@
         </destinationsrs>
     </mapcanvas>
     <legend>
-        <legendlayer open="true" checked="Qt::Checked" name="companies" showFeatureCount="0">
+        <legendlayer open="true" checked="Qt::Checked" name="companias" showFeatureCount="0">
             <filegroup open="true" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="companies20161017114222358" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer open="true" checked="Qt::Checked" name="neighborhoods" showFeatureCount="0">
+        <legendlayer open="true" checked="Qt::Checked" name="distritos" showFeatureCount="1">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="neighborhoods20161017114801242" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="tech_district20161017153818629" visible="1"/>
             </filegroup>
         </legendlayer>
     </legend>
@@ -39,7 +39,7 @@
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>companies20161017114222358</id>
             <datasource>PG:dbname='gis-entrega-1' host='localhost' port='5432' user='gis-entrega-1' password='gis-entrega-1'|layername=companies</datasource>
-            <layername>companies</layername>
+            <layername>companias</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -53,7 +53,7 @@
                 </spatialrefsys>
             </srs>
             <transparencyLevelInt>255</transparencyLevelInt>
-            <provider encoding="System">ogr</provider>
+            <provider encoding="UTF-8">ogr</provider>
             <vectorjoins/>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
@@ -71,8 +71,54 @@
                 <rotation field=""/>
                 <sizescale field=""/>
             </renderer-v2>
-            <customproperties/>
-            <displayfield></displayfield>
+            <customproperties>
+                <property key="labeling" value="pal"/>
+                <property key="labeling/addDirectionSymbol" value="false"/>
+                <property key="labeling/bufferColorB" value="255"/>
+                <property key="labeling/bufferColorG" value="255"/>
+                <property key="labeling/bufferColorR" value="255"/>
+                <property key="labeling/bufferSize" value="1"/>
+                <property key="labeling/dataDefinedProperty0" value=""/>
+                <property key="labeling/dataDefinedProperty1" value=""/>
+                <property key="labeling/dataDefinedProperty10" value=""/>
+                <property key="labeling/dataDefinedProperty11" value=""/>
+                <property key="labeling/dataDefinedProperty12" value=""/>
+                <property key="labeling/dataDefinedProperty13" value=""/>
+                <property key="labeling/dataDefinedProperty14" value=""/>
+                <property key="labeling/dataDefinedProperty2" value=""/>
+                <property key="labeling/dataDefinedProperty3" value=""/>
+                <property key="labeling/dataDefinedProperty4" value=""/>
+                <property key="labeling/dataDefinedProperty5" value=""/>
+                <property key="labeling/dataDefinedProperty6" value=""/>
+                <property key="labeling/dataDefinedProperty7" value=""/>
+                <property key="labeling/dataDefinedProperty8" value=""/>
+                <property key="labeling/dataDefinedProperty9" value=""/>
+                <property key="labeling/dist" value="0"/>
+                <property key="labeling/distInMapUnits" value="false"/>
+                <property key="labeling/enabled" value="true"/>
+                <property key="labeling/fieldName" value="name"/>
+                <property key="labeling/fontFamily" value="Ubuntu"/>
+                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontSize" value="11"/>
+                <property key="labeling/fontSizeInMapUnits" value="false"/>
+                <property key="labeling/fontStrikeout" value="false"/>
+                <property key="labeling/fontUnderline" value="false"/>
+                <property key="labeling/fontWeight" value="50"/>
+                <property key="labeling/labelPerPart" value="false"/>
+                <property key="labeling/mergeLines" value="false"/>
+                <property key="labeling/minFeatureSize" value="0"/>
+                <property key="labeling/multiLineLabels" value="false"/>
+                <property key="labeling/obstacle" value="true"/>
+                <property key="labeling/placement" value="0"/>
+                <property key="labeling/placementFlags" value="0"/>
+                <property key="labeling/priority" value="10"/>
+                <property key="labeling/scaleMax" value="0"/>
+                <property key="labeling/scaleMin" value="0"/>
+                <property key="labeling/textColorB" value="0"/>
+                <property key="labeling/textColorG" value="0"/>
+                <property key="labeling/textColorR" value="0"/>
+            </customproperties>
+            <displayfield>name</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Label"/>
@@ -94,15 +140,15 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
-            <id>neighborhoods20161017114801242</id>
-            <datasource>PG:dbname='gis-entrega-1' host='localhost' port='5432' user='gis-entrega-1' password='gis-entrega-1'|layername=neighborhoods</datasource>
-            <layername>neighborhoods</layername>
+            <id>tech_district20161017153818629</id>
+            <datasource>./tech-district.geojson</datasource>
+            <layername>distritos</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -122,7 +168,7 @@
                 <symbols>
                     <symbol outputUnit="MM" alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="color" v="175,137,115,255"/>
+                            <prop k="color" v="54,87,129,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="style" v="solid"/>

@@ -1,0 +1,456 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "name": "STAR X", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "PEPIRI 758", "address2": "PEPIRI 758" }, "geometry": { "type": "Point", "coordinates": [ -58.4092689, -34.6468541, 0.0 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "name": "IRON MOUNTAIN", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "AMANCIO ALCORTA 2482", "address2": "AV. AMANCIO ALCORTA 2482" }, "geometry": { "type": "Point", "coordinates": [ -58.3960018, -34.6424371, 0.0 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "name": "TATA", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "USPALLATA 3034", "address2": "USPALLATA 3034" }, "geometry": { "type": "Point", "coordinates": [ -58.405578, -34.6402383, 0.0 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "name": "IBC ARGENTINA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 2930 PB 5", "address2": "CATULO CASTILLO 2930" }, "geometry": { "type": "Point", "coordinates": [ -58.4048769, -34.6345103, 0.0 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "name": "CMD - COMPAÑÍA MEDIOS DIGITALES", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "COLONIA 156\/170", "address2": "COLONIA 156" }, "geometry": { "type": "Point", "coordinates": [ -58.3981944, -34.6376595, 0.0 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "name": "CZYNE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 3230 OFI 22 - 2", "address2": "CATULO CASTILLO 3230" }, "geometry": { "type": "Point", "coordinates": [ -58.4097417, -34.6355627, 0.0 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "name": "DATCO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 3251", "address2": "CATULO CASTILLO 3251" }, "geometry": { "type": "Point", "coordinates": [ -58.4099262, -34.6355705, 0.0 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "name": "AVANZIT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "La Rioja 2011", "address2": "LA RIOJA 2011" }, "geometry": { "type": "Point", "coordinates": [ -58.4059878, -34.6349557, 0.0 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "name": "EXO", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "CHICLANA 3436 ", "address2": "CHICLANA 3436" }, "geometry": { "type": "Point", "coordinates": [ -58.4131257, -34.6357115, 0.0 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "name": "SYSTEM MASTER", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "BEAZLEY 3549\/3551", "address2": "BEAZLEY 3549" }, "geometry": { "type": "Point", "coordinates": [ -58.4097897, -34.6529729, 0.0 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "name": "ENTORNOS EDUCATIVOS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1963 PISO 9D", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "name": "GRUPO GC", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ESTEBAN DE LUCA 1981", "address2": "ESTEBAN DE LUCA 1981" }, "geometry": { "type": "Point", "coordinates": [ -58.4029983, -34.6334137, 0.0 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "name": "CORA-DIR", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "USPALLATA 2853\/57", "address2": "USPALLATA 2853" }, "geometry": { "type": "Point", "coordinates": [ -58.4024345, -34.6390239, 0.0 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "name": "NOVATECH", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "USPALLATA 2768\/70\/72", "address2": "USPALLATA 2768" }, "geometry": { "type": "Point", "coordinates": [ -58.4008321, -34.6387577, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "name": "DINATECH", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "Zavaleta 85", "address2": "ZAVALETA 85" }, "geometry": { "type": "Point", "coordinates": [ -58.4035275, -34.6378306, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "name": "HIT 1", "origin": "Nac.", "sector": "DATA CENTER", "status": "En Operación", "address": "CHICLANA 3345", "address2": "CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "name": "BANGHO", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "BRASIL 3031\/33", "address2": "AV. BRASIL 3031" }, "geometry": { "type": "Point", "coordinates": [ -58.4065917, -34.6338347, 0.0 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "name": "SERSAT", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1956", "address2": "AV. JUJUY 1956" }, "geometry": { "type": "Point", "coordinates": [ -58.3998048, -34.6331802, 0.0 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "name": "GRUPO NUCLEO", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "USPALLATA 2768\/2776", "address2": "USPALLATA 2768" }, "geometry": { "type": "Point", "coordinates": [ -58.4008321, -34.6387577, 0.0 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "name": "BANK", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "DIOGENES TABORDA 73", "address2": "DIOGENES TABORDA 73" }, "geometry": { "type": "Point", "coordinates": [ -58.4129665, -34.6394158, 0.0 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "name": "QUANTUM TECNOLOGÍA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "LAVARDEN 145", "address2": "LAVARDEN 145" }, "geometry": { "type": "Point", "coordinates": [ -58.4017522, -34.6381395, 0.0 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "name": "MEGATECH", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "PATAGONES 2827 PISO 3y4", "address2": "PATAGONES 2827" }, "geometry": { "type": "Point", "coordinates": [ -58.402214, -34.637673, 0.0 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "name": "SENSEBYTE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "LA RIOJA 2011", "address2": "LA RIOJA 2011" }, "geometry": { "type": "Point", "coordinates": [ -58.4059878, -34.6349557, 0.0 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "name": "MSA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ATUEL 362", "address2": "ATUEL 362" }, "geometry": { "type": "Point", "coordinates": [ -58.4074506, -34.6420402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "name": "E-NFO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "LOS PATOS 2650", "address2": "LOS PATOS 2650" }, "geometry": { "type": "Point", "coordinates": [ -58.3983078, -34.6394644, 0.0 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "name": "TECDIA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "COLONIA 156\/170", "address2": "COLONIA 156" }, "geometry": { "type": "Point", "coordinates": [ -58.3981944, -34.6376595, 0.0 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "name": "CONSULTORES TRAVERSO", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1915 PISO 5B", "address2": "AV. JUJUY 1915" }, "geometry": { "type": "Point", "coordinates": [ -58.4001099, -34.6328125, 0.0 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "name": "NOVATIUM", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ESTEBAN DE LUCA 1963", "address2": "ESTEBAN DE LUCA 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.4030342, -34.6332534, 0.0 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "name": "TESAM", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MAZA 2140", "address2": "MAZA 2140" }, "geometry": { "type": "Point", "coordinates": [ -58.4136588, -34.6365445, 0.0 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "name": "YEL INFORMATICA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3227 PISO 5B", "address2": "AV. CASEROS 3227" }, "geometry": { "type": "Point", "coordinates": [ -58.40985, -34.6377278, 0.0 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "name": "COMPUSISTEM", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2520 PB OF.04", "address2": "RONDEAU 2520" }, "geometry": { "type": "Point", "coordinates": [ -58.3982191, -34.6345677, 0.0 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "name": "PRONTO SISTEMA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JOSE C. PAZ 2936", "address2": "JOSE C. PAZ 2936" }, "geometry": { "type": "Point", "coordinates": [ -58.403018, -34.6440014, 0.0 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "name": "PRESMIA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1963,  PISO 8. OF C Y D ", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "name": "NEXT NETWORKS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1963 PISO 5D", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "name": "DATAN", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 3230 PISO 2 OFIC. 24", "address2": "CATULO CASTILLO 3230" }, "geometry": { "type": "Point", "coordinates": [ -58.4097417, -34.6355627, 0.0 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "name": "CAPTTON CONSULTING", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "LA RIOJA 2197 1º3", "address2": "LA RIOJA 2197" }, "geometry": { "type": "Point", "coordinates": [ -58.4057782, -34.6369726, 0.0 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "name": "IS SECURITY", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2575", "address2": "RONDEAU 2575" }, "geometry": { "type": "Point", "coordinates": [ -58.3989832, -34.6345872, 0.0 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "name": "IMPLEMENTAR", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 3230 PISO 1 OFIC. 12", "address2": "CATULO CASTILLO 3230" }, "geometry": { "type": "Point", "coordinates": [ -58.4097417, -34.6355627, 0.0 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "name": "DATASTAR", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1915 PISO 5C", "address2": "AV. JUJUY 1915" }, "geometry": { "type": "Point", "coordinates": [ -58.4001099, -34.6328125, 0.0 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "name": "TIGABYTES", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. CASEROS 2602, PISO 5", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "name": "FARMARECORD", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PEPIRÍ 254", "address2": "PEPIRÍ 254" }, "geometry": { "type": "Point", "coordinates": [ -58.4090025, -34.6410635, 0.0 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "name": "STARWARE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DR. PEDRO CHUTRO 3090", "address2": "DR. PEDRO CHUTRO 3090" }, "geometry": { "type": "Point", "coordinates": [ -58.4059091, -34.6422795, 0.0 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "name": "DATA FACTORY", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PATAGONES 2827 PISO 1", "address2": "PATAGONES 2827" }, "geometry": { "type": "Point", "coordinates": [ -58.402214, -34.637673, 0.0 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "name": "COS ARGENTINA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DR. PEDRO CHUTRO 3302", "address2": "DR. PEDRO CHUTRO 3302" }, "geometry": { "type": "Point", "coordinates": [ -58.4088542, -34.6426801, 0.0 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "name": "TELEFONICA G. DE SS COMPARTIDOS", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "LOS PATOS 3151", "address2": "LOS PATOS 3151" }, "geometry": { "type": "Point", "coordinates": [ -58.4068256, -34.6413419, 0.0 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "name": "INTEROPTICS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "USPALLATA 2983\/85\/87", "address2": "USPALLATA 2983" }, "geometry": { "type": "Point", "coordinates": [ -58.4047713, -34.6395043, 0.0 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "name": "G&L GROUP", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MONTEAGUDO 275", "address2": "MONTEAGUDO 275" }, "geometry": { "type": "Point", "coordinates": [ -58.4049241, -34.6407654, 0.0 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "name": "MTD SOFTWARE SRL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 2932 PISO 4 OF.24", "address2": "CATULO CASTILLO 2932" }, "geometry": { "type": "Point", "coordinates": [ -58.4048798, -34.6345878, 0.0 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "name": "OPEN COMPUTACIÓN", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATAMARCA 1985", "address2": "CATAMARCA 1985" }, "geometry": { "type": "Point", "coordinates": [ -58.4017646, -34.6330288, 0.0 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "name": "HORWATH CAPITAL INTELECTUAL", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Patagones 2937 PISO 5", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "name": "GENERAL PLASTIC CORP", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "LOS PATOS 2526\/2532", "address2": "LOS PATOS 2526" }, "geometry": { "type": "Point", "coordinates": [ -58.3965336, -34.6392514, 0.0 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "name": "NITIS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "BRASIL 2883", "address2": "AV. BRASIL 2883" }, "geometry": { "type": "Point", "coordinates": [ -58.4043622, -34.633032, 0.0 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "name": "VIDEOSWITCH", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "USPALLATA 3579", "address2": "USPALLATA 3579" }, "geometry": { "type": "Point", "coordinates": [ -58.4135562, -34.6410744, 0.0 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "name": "DESPEGAR.COM", "origin": "Ext.", "sector": "e-COMMERCE", "status": "En Operación", "address": "AV. JUJUY 2013\/16", "address2": "AV. JUJUY 2013" }, "geometry": { "type": "Point", "coordinates": [ -58.3997839, -34.6340645, 0.0 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "name": "GEOSYSTEMS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ESTEBAN DE LUCA 2223", "address2": "ESTEBAN DE LUCA 2223" }, "geometry": { "type": "Point", "coordinates": [ -58.4024218, -34.6355649, 0.0 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "name": "REPORTE INFORMATIVO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ZAVALETA 219", "address2": "ZAVALETA 219" }, "geometry": { "type": "Point", "coordinates": [ -58.4032842, -34.6394495, 0.0 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "name": "DELFAU", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MANUEL GARCIA 276", "address2": "MANUEL GARCIA 276" }, "geometry": { "type": "Point", "coordinates": [ -58.3962531, -34.6387124, 0.0 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "name": "BUFFA SISTEMAS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3227 PISO 7A", "address2": "AV. CASEROS 3227" }, "geometry": { "type": "Point", "coordinates": [ -58.40985, -34.6377278, 0.0 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "name": "FULLTRACE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "AV. COLONIA 370", "address2": "AV. COLONIA 370" }, "geometry": { "type": "Point", "coordinates": [ -58.3970665, -34.6404546, 0.0 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "name": "GC GESTIÓN COMPARTIDA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": " PATAGONES 2548\/50", "address2": "PATAGONES 2548" }, "geometry": { "type": "Point", "coordinates": [ -58.3976161, -34.6368703, 0.0 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "name": "IPLAN", "origin": "Nac.", "sector": "DATA CENTER", "status": "En Operación", "address": "LOS PATOS 2948", "address2": "LOS PATOS 2948" }, "geometry": { "type": "Point", "coordinates": [ -58.4038399, -34.6407055, 0.0 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "name": "GOODWELL SOFTWARE ARGENTINA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ARRIOLA 49", "address2": "ARRIOLA 49" }, "geometry": { "type": "Point", "coordinates": [ -58.4028672, -34.6372953, 0.0 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "name": "SYNCHRO TECNH", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "IGUAZÚ 280", "address2": "IGUAZÚ 280" }, "geometry": { "type": "Point", "coordinates": [ -58.406265, -34.6409237, 0.0 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "name": "TEKII", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ELIA 551", "address2": "ELIA 551" }, "geometry": { "type": "Point", "coordinates": [ -58.4084895, -34.6444462, 0.0 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "name": "NOVASYS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1875 PISO 7", "address2": "AV. JUJUY 1875" }, "geometry": { "type": "Point", "coordinates": [ -58.4003103, -34.6323198, 0.0 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "name": "GRUPO NET", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DEAN FUNES 1960", "address2": "DEAN FUNES 1960" }, "geometry": { "type": "Point", "coordinates": [ -58.4044517, -34.6338818, 0.0 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "name": "CIRCO STUDIO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 2073 PISO 1", "address2": "AV. JUJUY 2073" }, "geometry": { "type": "Point", "coordinates": [ -58.3995012, -34.634497, 0.0 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "name": "SISTEMAS PARA BANCOS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "VIRREY LINIERS 2351", "address2": "VIRREY LINIERS 2351" }, "geometry": { "type": "Point", "coordinates": [ -58.4118206, -34.6375782, 0.0 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "name": "TESIS OYS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3411 PISO 7", "address2": "AV. CASEROS 3411" }, "geometry": { "type": "Point", "coordinates": [ -58.4135773, -34.6383388, 0.0 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "name": "ABACO", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1875 PISO 6B", "address2": "AV. JUJUY 1875" }, "geometry": { "type": "Point", "coordinates": [ -58.4003103, -34.6323198, 0.0 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "name": "VR4", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1963 PISO 2B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "name": "E-BUY PLACE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MONTEAGUDO 146", "address2": "MONTEAGUDO 146" }, "geometry": { "type": "Point", "coordinates": [ -58.4051891, -34.6388603, 0.0 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "name": "PEDIATRIC CARE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En operación", "address": "RONDEAU 2520", "address2": "RONDEAU 2520" }, "geometry": { "type": "Point", "coordinates": [ -58.3982191, -34.6345677, 0.0 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "name": "MOVIL CARGA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "DEAN FUNES 2077", "address2": "DEAN FUNES 2077" }, "geometry": { "type": "Point", "coordinates": [ -58.4042207, -34.6352247, 0.0 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "name": "IADEV", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "RONDEAU 3124", "address2": "RONDEAU 3124" }, "geometry": { "type": "Point", "coordinates": [ -58.4081055, -34.6364682, 0.0 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "name": "LAKAUT", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CASEROS 3371", "address2": "AV. CASEROS 3371" }, "geometry": { "type": "Point", "coordinates": [ -58.4126494, -34.6383112, 0.0 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "name": "PAY-U LATAM", "origin": "Ext.", "sector": "e-COMMERCE", "status": "En Operación", "address": "RONDEAU 2664 PISO 2.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "name": "TEKNARIA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CASEROS 3405 PISO 1.", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "name": "EXISOFT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MONTEAGUDO 252", "address2": "MONTEAGUDO 252" }, "geometry": { "type": "Point", "coordinates": [ -58.4049542, -34.6404693, 0.0 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "name": "ASSERT SOLUTIONS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 2630 PISO 3", "address2": "CATULO CASTILLO 2630" }, "geometry": { "type": "Point", "coordinates": [ -58.4006107, -34.6329011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "name": "DPS SISTEMAS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PATAGONES 2559 PB DEPT. 2", "address2": "PATAGONES 2559" }, "geometry": { "type": "Point", "coordinates": [ -58.397826, -34.6367839, 0.0 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "name": "DIGITAL FILE", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "JUJUY 1963 PISO 8 OFIC. B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "name": "LUGALU", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MONTEAGUDO 532\/536", "address2": "MONTEAGUDO 532" }, "geometry": { "type": "Point", "coordinates": [ -58.4043506, -34.6437479, 0.0 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "name": "SGB INFORMATION SERVICES", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "PEPIRI 286", "address2": "PEPIRI 286" }, "geometry": { "type": "Point", "coordinates": [ -58.409062, -34.6414794, 0.0 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "name": "BUMERAN", "origin": "Nac.", "sector": "e-COMMERCE", "status": "En Operación", "address": "RONDEAU 2664 PISO 4", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "name": "UNIVERSOBIT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2664 PISO 3", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "name": "SITEPRO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 2630 PISO 2A", "address2": "CATULO CASTILLO 2630" }, "geometry": { "type": "Point", "coordinates": [ -58.4006107, -34.6329011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "name": "SERDATA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PATAGONES 2750", "address2": "PATAGONES 2750" }, "geometry": { "type": "Point", "coordinates": [ -58.4006418, -34.6375251, 0.0 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "name": "INFOGESTION BRANCHT", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CATULO CASTILLO 2630 PISO 1", "address2": "CATULO CASTILLO 2630" }, "geometry": { "type": "Point", "coordinates": [ -58.4006107, -34.6329011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "name": "NET SERVICES", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "LA RIOJA 2011 PB", "address2": "LA RIOJA 2011" }, "geometry": { "type": "Point", "coordinates": [ -58.4059878, -34.6349557, 0.0 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "name": "STAFFING IT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Manuel Garcia 50, PISO 1", "address2": "MANUEL GARCIA 50" }, "geometry": { "type": "Point", "coordinates": [ -58.3971241, -34.6362024, 0.0 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "name": "m2-MARKETINMETRICS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "LUNA 17 PISO 5", "address2": "LUNA 17" }, "geometry": { "type": "Point", "coordinates": [ -58.4003738, -34.6365061, 0.0 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "name": "ADP CONSULTORES", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "CASEROS 3392", "address2": "AV. CASEROS 3392" }, "geometry": { "type": "Point", "coordinates": [ -58.4129369, -34.638501, 0.0 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "name": "TELINFOR", "origin": "Nac.", "sector": "BPO", "status": "En operación", "address": "CATULO CASTILLO 2630 PISO 2B", "address2": "CATULO CASTILLO 2630" }, "geometry": { "type": "Point", "coordinates": [ -58.4006107, -34.6329011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "name": "QUASS SRL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Jujuy 1963, piso 6to B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "name": "B2CLOUD", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "Jujuy 1963, piso 3ro B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "name": "POSNET", "origin": "Ext.", "sector": "DATA CENTER", "status": "En Operación", "address": "RONDEAU 3439\/59 ", "address2": "RONDEAU 3439" }, "geometry": { "type": "Point", "coordinates": [ -58.4128125, -34.6368103, 0.0 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "name": "FIRST DATA", "origin": "Ext.", "sector": "DATA CENTER", "status": "En Operación", "address": "RONDEAU 3439\/59 ", "address2": "RONDEAU 3439" }, "geometry": { "type": "Point", "coordinates": [ -58.4128125, -34.6368103, 0.0 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "name": "TR ARGENTINA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CATULO CASTILLO 2630 PISO 3A", "address2": "CATULO CASTILLO 2630" }, "geometry": { "type": "Point", "coordinates": [ -58.4006107, -34.6329011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "name": "POWER CONSULTANT", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "GRITO DE ASENCIO 3650", "address2": "GRITO DE ASENCIO 3650" }, "geometry": { "type": "Point", "coordinates": [ -58.4129726, -34.6479518, 0.0 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "name": "CONSULTORA NÚCLEO", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CASEROS 3405 PISO 5", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "name": "PAGUSTECH", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3227 PISO 6C", "address2": "AV. CASEROS 3227" }, "geometry": { "type": "Point", "coordinates": [ -58.40985, -34.6377278, 0.0 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "name": "GRUPO TBT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1963 PISO 3B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "name": "DARUMA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1915 PISO 6B", "address2": "AV. JUJUY 1915" }, "geometry": { "type": "Point", "coordinates": [ -58.4001099, -34.6328125, 0.0 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "name": "COVEDISA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "USPALLATA 2953", "address2": "USPALLATA 2953" }, "geometry": { "type": "Point", "coordinates": [ -58.4042745, -34.6393958, 0.0 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "name": "SILK TECH", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Av. Caseros 2602, piso 8", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "name": "DAEVA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Pedro Chutro 3135 , oficina 101\/102", "address2": "PEDRO CHUTRO 3135" }, "geometry": { "type": "Point", "coordinates": [ -58.4066662, -34.6423478, 0.0 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "name": "NEC", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "ATUEL 471 ", "address2": "ATUEL 471" }, "geometry": { "type": "Point", "coordinates": [ -58.4073412, -34.6433899, 0.0 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "name": "TI SISTEMAS", "origin": "Nac.", "sector": "BPO", "status": "En operación", "address": "RONDEAU 2664 PISO 5B.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "name": "SIF AMERICA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DR. PEDRO CHUTRO 3135", "address2": "DR. PEDRO CHUTRO 3135" }, "geometry": { "type": "Point", "coordinates": [ -58.4066662, -34.6423478, 0.0 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "name": "GLD CONSULTORES", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3405 PISO 3.", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "name": "MOVILGATE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PATAGONES 2827 PISO 5.", "address2": "PATAGONES 2827" }, "geometry": { "type": "Point", "coordinates": [ -58.402214, -34.637673, 0.0 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "name": "TELEFONICA GLOBAL TECHNOLOGY", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "CHICLANA 3345", "address2": "CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "name": "AIV (Central de pasajes)", "origin": "Nac.", "sector": "e-COMMERCE", "status": "En Operación", "address": "AMANCIO ALCORTA 2801", "address2": "AMANCIO ALCORTA 2801" }, "geometry": { "type": "Point", "coordinates": [ -58.4009322, -34.644923, 0.0 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "name": "DAXA", "origin": "Ext.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 2602, piso 8", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "name": "CENTRY SA", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "Cachi 774\/776", "address2": "CACHI 774" }, "geometry": { "type": "Point", "coordinates": [ -58.4110255, -34.6517679, 0.0 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "name": "BIBLOS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CHICLANA 3345 PISO 6.", "address2": "CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "name": "AVANTRIP", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CHICLANA 3345 PISO 7.", "address2": "CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "name": "OVERNET", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1875, 2do piso", "address2": "AV. JUJUY 1875" }, "geometry": { "type": "Point", "coordinates": [ -58.4003103, -34.6323198, 0.0 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "name": "ADMINISTRADORA DE MONEDEROS ELECTRONICOS (AME)", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "MANUEL GARCIA 50 PISO 2.", "address2": "MANUEL GARCIA 50" }, "geometry": { "type": "Point", "coordinates": [ -58.3971241, -34.6362024, 0.0 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "name": "SOLUCIONES WORKOUT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "24 DE NOVIEMBRE 2115", "address2": "24 DE NOVIEMBRE 2115" }, "geometry": { "type": "Point", "coordinates": [ -58.4091427, -34.6365067, 0.0 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "name": "SOF TUR", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "ACHALA 3527", "address2": "ACHALA 3527" }, "geometry": { "type": "Point", "coordinates": [ -58.4137106, -34.6426795, 0.0 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "name": "CORPORATE CORP", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "PUNA 3540", "address2": "PUNA 3540" }, "geometry": { "type": "Point", "coordinates": [ -58.4134113, -34.6416178, 0.0 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "name": "BAITCON", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CATULO CASTILLO 3250 A.", "address2": "CATULO CASTILLO 3250" }, "geometry": { "type": "Point", "coordinates": [ -58.4099686, -34.6356116, 0.0 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "name": "INTERSERVICES CONSULTING", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CATULO CASTILLO 3250 B.", "address2": "CATULO CASTILLO 3250" }, "geometry": { "type": "Point", "coordinates": [ -58.4099686, -34.6356116, 0.0 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "name": "RENXO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3405 PISO 4.", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "name": "AKAROMSOFT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "AV. JUJUY 1963 PISO 9C.", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "name": "TMF ARGENTINA", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "CHICLANA 3345 PISO 4º y 5º.", "address2": "CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "name": "VALID", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "JOSE C. PAZ 3640 PB", "address2": "JOSE C. PAZ 3640" }, "geometry": { "type": "Point", "coordinates": [ -58.4135821, -34.6457829, 0.0 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "name": "SMARTWAY", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO 3072 PISO 3° OF 105", "address2": "CATULO CASTILLO 3072" }, "geometry": { "type": "Point", "coordinates": [ -58.4074437, -34.6351698, 0.0 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "name": "SONDEOS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DR. PEDRO CHUTRO 3135 PISO 2°B.", "address2": "DR. PEDRO CHUTRO 3135" }, "geometry": { "type": "Point", "coordinates": [ -58.4066662, -34.6423478, 0.0 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "name": "SYSTEMSCORP ", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "DEL TIGRE 3867\/69", "address2": "DEL TIGRE 3867" }, "geometry": { "type": "Point", "coordinates": [ -58.4155777, -34.6453862, 0.0 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "name": "BDO", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "RONDEAU 2664 PISO PB y 1.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "name": "AGEN", "origin": "Nac.", "sector": "HARDWARE", "status": "En Operación", "address": "CORTEJARENA, JOSE A. 3205", "address2": "JOSE A CORTEJARENA 3205" }, "geometry": { "type": "Point", "coordinates": [ -58.407239, -34.6437232, 0.0 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "name": "BPD SOLUTIONS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "DEAN FUNES 2148", "address2": "DEAN FUNES 2148" }, "geometry": { "type": "Point", "coordinates": [ -58.4038305, -34.6362595, 0.0 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "name": "CATALINAS CENTER", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "PATAGONES 2766", "address2": "PATAGONES 2766" }, "geometry": { "type": "Point", "coordinates": [ -58.4012756, -34.6376207, 0.0 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "name": "ACTIVIA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CHICLANA 3580", "address2": "CHICLANA 3580" }, "geometry": { "type": "Point", "coordinates": [ -58.4143888, -34.6364723, 0.0 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "name": "ADVANCED RESOURCES", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2520 OF.3", "address2": "RONDEAU 2520" }, "geometry": { "type": "Point", "coordinates": [ -58.3982191, -34.6345677, 0.0 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "name": "SOLUCIONES INFORMATICAS INTEGRALES", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "CATULO CASTILLO 2633", "address2": "CATULO CASTILLO 2633" }, "geometry": { "type": "Point", "coordinates": [ -58.4007492, -34.6327397, 0.0 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "name": "ITALTEL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "PATAGONES 2937", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "name": "CLAWI", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "COLONIA 170", "address2": "COLONIA 170" }, "geometry": { "type": "Point", "coordinates": [ -58.398128, -34.637823, 0.0 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "name": "DEDALORD", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PEDRO CHUTRO 3135 PB A", "address2": "PEDRO CHUTRO 3135" }, "geometry": { "type": "Point", "coordinates": [ -58.4066662, -34.6423478, 0.0 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "name": "GECSA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2664 PISO 5B 1º.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "name": "CANAL VIRTUAL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2664 PISO 5B 2º.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "name": "MICROSHENZHEN", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "RONDEAU 2664 PISO 5B 3º.", "address2": "RONDEAU 2664" }, "geometry": { "type": "Point", "coordinates": [ -58.4003402, -34.6349489, 0.0 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "name": "ITBA", "origin": "Nac.", "sector": "EDUCACION", "status": "En Obra", "address": "LAVARDEN 389", "address2": "LAVARDEN 389" }, "geometry": { "type": "Point", "coordinates": [ -58.4010874, -34.6414269, 0.0 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "name": "DUX DILIGENS\/TMN", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 3405 PISO 6.", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "name": "E-GATE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CASEROS 2862 PISO 1B.", "address2": "AV. CASEROS 2862" }, "geometry": { "type": "Point", "coordinates": [ -58.403375, -34.6367716, 0.0 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "name": "THINK IT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "CASEROS 2608 PISO 3A.", "address2": "AV. CASEROS 2608" }, "geometry": { "type": "Point", "coordinates": [ -58.3990648, -34.6359679, 0.0 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "name": "PARADIGMA CONSULTORES", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "CASEROS 2608 PISO 2A.", "address2": "AV. CASEROS 2608" }, "geometry": { "type": "Point", "coordinates": [ -58.3990648, -34.6359679, 0.0 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "name": "NETNIX", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "CASEROS 3405 PISO 7.", "address2": "AV. CASEROS 3405" }, "geometry": { "type": "Point", "coordinates": [ -58.4133676, -34.6384366, 0.0 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "name": "VIAJO BIEN ", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "LAVARDEN 157, PISO 2 y 3.", "address2": "LAVARDEN 157" }, "geometry": { "type": "Point", "coordinates": [ -58.4017181, -34.6382785, 0.0 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "name": "ASATEJ", "origin": "Ext.", "sector": "BPO", "status": "En Operación", "address": "AV CASEROS 3301, PISO 5, 6, 7 y 8", "address2": "AV. CASEROS 3301" }, "geometry": { "type": "Point", "coordinates": [ -58.4117004, -34.6381435, 0.0 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "name": "BEST DAY ", "origin": "Ext.", "sector": "e-COMMERCE", "status": "En Obra", "address": "AV CASEROS 3301, PISO 3", "address2": "AV. CASEROS 3301" }, "geometry": { "type": "Point", "coordinates": [ -58.4117004, -34.6381435, 0.0 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "name": "USAL", "origin": "Nac.", "sector": "EDUCACION", "status": "En Obra", "address": "ZABALETA 330\/332\/348", "address2": "ZABALETA 330" }, "geometry": { "type": "Point", "coordinates": [ -58.402944, -34.6407815, 0.0 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "name": "VULSAI-MANGO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "PATAGONES 2827, PISO 3", "address2": "PATAGONES 2827" }, "geometry": { "type": "Point", "coordinates": [ -58.402214, -34.637673, 0.0 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "name": "OPTICOM", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "MANUEL GARCIA 233", "address2": "MANUEL GARCIA 233" }, "geometry": { "type": "Point", "coordinates": [ -58.3964377, -34.6383636, 0.0 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "name": "QUALITY WORK", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Caseros 2862, PISO 3 A", "address2": "AV. CASEROS 2862" }, "geometry": { "type": "Point", "coordinates": [ -58.403375, -34.6367716, 0.0 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "name": "SMS", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Av. Caseros 2602, piso 1", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "name": "CRYSTALIS\/SEIDOR", "origin": "Ext.", "sector": "BPO", "status": "En Obra", "address": "AV. CASEROS 2602, PISO 4,5", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "name": "LABOR CORPORATIVA", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "LUNA 17. PiISO  3, 4,  5", "address2": "LUNA 17" }, "geometry": { "type": "Point", "coordinates": [ -58.4003738, -34.6365061, 0.0 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "name": "AIR COMPUTERS", "origin": "Nac.", "sector": "HARDWARE", "status": "En obra", "address": "ANCASTE  3258", "address2": "ANCASTE  3258" }, "geometry": { "type": "Point", "coordinates": [ -58.4071423, -34.6482929, 0.0 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "name": "VALIJA CHICA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "CATULO CASTILLO  2960", "address2": "CATULO CASTILLO  2960" }, "geometry": { "type": "Point", "coordinates": [ -58.4052147, -34.6346343, 0.0 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "name": "DELTA 3", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "JUJUY 1875, PISO 5", "address2": "JUJUY 1875" }, "geometry": { "type": "Point", "coordinates": [ -58.4003103, -34.6323198, 0.0 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "name": "NEURAL SOFT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "AV. CASEROS 3563, PISO 9", "address2": "AV. CASEROS 3563" }, "geometry": { "type": "Point", "coordinates": [ -58.415381, -34.6387744, 0.0 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "name": "WORLDSYS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "AV. JUJUY 2073", "address2": "AV. JUJUY 2073" }, "geometry": { "type": "Point", "coordinates": [ -58.3995012, -34.634497, 0.0 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "name": "RECURSOS  EN DESARROLLO ", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "LUNA 17, PISO 1, A", "address2": "LUNA 17" }, "geometry": { "type": "Point", "coordinates": [ -58.4003738, -34.6365061, 0.0 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "name": "PROVINCANJE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Caseros 2920", "address2": "AV. CASEROS 2920" }, "geometry": { "type": "Point", "coordinates": [ -58.4040733, -34.6368742, 0.0 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "name": "D-TECH", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Corrales Viejos 80", "address2": "CORRALES VIEJOS 80" }, "geometry": { "type": "Point", "coordinates": [ -58.4050778, -34.6379206, 0.0 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "name": "SMS SRL", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Av. Caseros 2602, piso 1", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "name": "BITOPIA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Patagones 2535", "address2": "PATAGONES 2535" }, "geometry": { "type": "Point", "coordinates": [ -58.3976673, -34.6367253, 0.0 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "name": "FUSAP", "origin": "Nac.", "sector": "software", "status": "En Operación", "address": "Av.Caseros 2862 3°B", "address2": "AV. CASEROS 2862" }, "geometry": { "type": "Point", "coordinates": [ -58.403375, -34.6367716, 0.0 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "name": "SOFTOFICE", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Luna 17, piso 6", "address2": "LUNA 17" }, "geometry": { "type": "Point", "coordinates": [ -58.4003738, -34.6365061, 0.0 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "name": "MISTAPEO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Pedro CHUTRO 3260", "address2": "PEDRO CHUTRO 3260" }, "geometry": { "type": "Point", "coordinates": [ -58.4083286, -34.6428088, 0.0 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "name": "TTS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "Av. Caseros 3563, PISO 3 y 4", "address2": "AV. CASEROS 3563" }, "geometry": { "type": "Point", "coordinates": [ -58.415381, -34.6387744, 0.0 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "name": "PLANEX ", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Patagones 2737", "address2": "PATAGONES 2737" }, "geometry": { "type": "Point", "coordinates": [ -58.4007834, -34.6373476, 0.0 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "name": "SOFTING", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Caseros 2602, PISO 1", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "name": "IMR", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 2602, piso 6", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "name": "CONSENSUS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Caseros 3301, PISO 2", "address2": "AV. CASEROS 3301" }, "geometry": { "type": "Point", "coordinates": [ -58.4117004, -34.6381435, 0.0 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "name": "DOCUMENTOS ADUANEROS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "La Rioja 2011", "address2": "LA RIOJA 2011" }, "geometry": { "type": "Point", "coordinates": [ -58.4059878, -34.6349557, 0.0 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "name": "CRONON", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Luna 424", "address2": "LUNA 424" }, "geometry": { "type": "Point", "coordinates": [ -58.3980746, -34.641628, 0.0 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "name": "INTERCONNECT", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Caseros 3563, piso 8 of. 16", "address2": "AV. CASEROS 3563" }, "geometry": { "type": "Point", "coordinates": [ -58.415381, -34.6387744, 0.0 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "name": "PMO TECNOLOGY ", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Esteban de Luca 2223, piso 3 of. J", "address2": "ESTEBAN DE LUCA 2223" }, "geometry": { "type": "Point", "coordinates": [ -58.4024218, -34.6355649, 0.0 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "name": "STEFANINI", "origin": "Ext.", "sector": "BPO", "status": "En operación", "address": "Lavarden 157 piso 2 oficina 2", "address2": "LAVARDEN 157" }, "geometry": { "type": "Point", "coordinates": [ -58.4017181, -34.6382785, 0.0 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "name": "ELECTROPAGOS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Arriola  27", "address2": "ARRIOLA  27" }, "geometry": { "type": "Point", "coordinates": [ -58.4029218, -34.637079, 0.0 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "name": "REVIRTUAL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Pepiri 286, PISO 1", "address2": "PEPIRI 286" }, "geometry": { "type": "Point", "coordinates": [ -58.409062, -34.6414794, 0.0 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "name": "EL SERVER", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av: CASEROS 3301 PISO 4, A", "address2": "AV. CASEROS 3301" }, "geometry": { "type": "Point", "coordinates": [ -58.4117004, -34.6381435, 0.0 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "name": "CANEPA, KOPEC Y ASOC.", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Patagones 2937  Piso 2", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "name": "HORWATH CONSULTING", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Patagones 2937 PB", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "name": "PRISMA MEDIOS DE PAGO SA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Uspallata 2802", "address2": "USPALLATA 2802" }, "geometry": { "type": "Point", "coordinates": [ -58.4016547, -34.6390812, 0.0 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "name": "KOMPENDIUM", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Patagones 2937 PISO 4", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "name": "HMSI", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Patagones 2937 PISO 6", "address2": "PATAGONES 2937" }, "geometry": { "type": "Point", "coordinates": [ -58.4041992, -34.6380375, 0.0 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "name": "IATASA", "origin": "Nac.", "sector": "INGENIERIA", "status": "En Obra", "address": "Av. Caseros 3301, Piso 2 B y 4 B", "address2": "AV. CASEROS 3301" }, "geometry": { "type": "Point", "coordinates": [ -58.4117004, -34.6381435, 0.0 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "name": "EBOX S.A.", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Alberti 1856", "address2": "ALBERTI 1856" }, "geometry": { "type": "Point", "coordinates": [ -58.3989469, -34.6317419, 0.0 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "name": "IT PATAGONIA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "A. Caseros 3602, piso 6", "address2": "AV. CASEROS 3602" }, "geometry": { "type": "Point", "coordinates": [ -58.4159173, -34.6389011, 0.0 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "name": "TALLION", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Rondeau 3367", "address2": "RONDEAU 3367" }, "geometry": { "type": "Point", "coordinates": [ -58.4115755, -34.6370482, 0.0 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "name": "DELLOITE", "origin": "Nac.", "sector": "BPO", "status": "En Obra", "address": "Av. Caseros 3563, piso 4 y 5", "address2": "AV. CASEROS 3563" }, "geometry": { "type": "Point", "coordinates": [ -58.415381, -34.6387744, 0.0 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "name": "CARDINAL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 3039, piso 8", "address2": "AV. CASEROS 3039" }, "geometry": { "type": "Point", "coordinates": [ -58.406333, -34.6372329, 0.0 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "name": "DIGITAL WEST", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": " Rondeau 2858", "address2": "RONDEAU 2858" }, "geometry": { "type": "Point", "coordinates": [ -58.4034663, -34.6354793, 0.0 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "name": "TRANS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Av. Caseros 2602, piso 10", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "name": "SISTEMAS OPERATIVOS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "Rondeau 3155", "address2": "RONDEAU 3155" }, "geometry": { "type": "Point", "coordinates": [ -58.4084217, -34.6365085, 0.0 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "name": "CDSS SA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 3039, piso 2C", "address2": "AV. CASEROS 3039" }, "geometry": { "type": "Point", "coordinates": [ -58.406333, -34.6372329, 0.0 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "name": "NEXAPOOL", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 3039, piso 2A", "address2": "AV. CASEROS 3039" }, "geometry": { "type": "Point", "coordinates": [ -58.406333, -34.6372329, 0.0 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "name": "VOD ARGENTINA SA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Av. Caseros 3039, piso 2B", "address2": "AV. CASEROS 3039" }, "geometry": { "type": "Point", "coordinates": [ -58.406333, -34.6372329, 0.0 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "name": "TDI", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Caseros 2602, piso 3", "address2": "AV. CASEROS 2602" }, "geometry": { "type": "Point", "coordinates": [ -58.3988878, -34.6359238, 0.0 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "name": "IDEA BIZ (OPEN IT)", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Jujuy 2156 P3 uf A", "address2": "AV. JUJUY 2156" }, "geometry": { "type": "Point", "coordinates": [ -58.3990446, -34.6354587, 0.0 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "name": "PATRICIOS PARK BUSINESS SOLUTIONS", "origin": "Nac.", "sector": "BPO", "status": "En Operación", "address": "Av. Jujuy 1963 P4 uf A", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "name": "BAIRESNET", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Av. Jujuy 1963 P5 uf B", "address2": "AV. JUJUY 1963" }, "geometry": { "type": "Point", "coordinates": [ -58.3999378, -34.6333204, 0.0 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "name": "TELECENTRO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Lavarden 153", "address2": "LAVARDEN 153" }, "geometry": { "type": "Point", "coordinates": [ -58.4017295, -34.6382322, 0.0 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "name": "CAECE\/CAMARA ARGENTINA DE COMERCIO", "origin": "Nac.", "sector": "EDUCACION", "status": "En Obra", "address": "Pedro Chutro 2851", "address2": "PEDRO CHUTRO 2851" }, "geometry": { "type": "Point", "coordinates": [ -58.4017248, -34.6416872, 0.0 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "name": "TECNOSOFTWARE SA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Chiclana 3345, 2 cuerpo, 3 A", "address2": "AV. CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "name": "TSOFT SA", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Av. Chiclana 3345, 2 cuerpo, 3 B", "address2": "AV. CHICLANA 3345" }, "geometry": { "type": "Point", "coordinates": [ -58.4119357, -34.6344402, 0.0 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "name": "ISBAN", "origin": "Ext.", "sector": "SOFTWARE", "status": "En Obra", "address": "Uspallata 2953", "address2": "USPALLATA 2953" }, "geometry": { "type": "Point", "coordinates": [ -58.4042745, -34.6393958, 0.0 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "name": "EDS", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Lavardén 153", "address2": "LAVARDEN 153" }, "geometry": { "type": "Point", "coordinates": [ -58.4017295, -34.6382322, 0.0 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "name": "WWW:COM:AR", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "Luna 17", "address2": "LUNA 17" }, "geometry": { "type": "Point", "coordinates": [ -58.4003738, -34.6365061, 0.0 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "name": "ATOS ARGENTINA S.A.", "origin": "Ext.", "sector": "SOFTWARE", "status": "En Obra", "address": "Virrey Liniers 2240", "address2": "VIRREY LINIERS 2240" }, "geometry": { "type": "Point", "coordinates": [ -58.4120768, -34.6363823, 0.0 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "name": "GLOBAL VIEW", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Rondeau 2145", "address2": "RONDEAU 2145" }, "geometry": { "type": "Point", "coordinates": [ -58.3953189, -34.6339303, 0.0 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "name": "INTERGRABO", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Rondeau 3466", "address2": "RONDEAU 3466" }, "geometry": { "type": "Point", "coordinates": [ -58.4129495, -34.6371032, 0.0 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "name": "DATAWISE S.A.", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Obra", "address": "15 de Noviembre de 1889 n°2573", "address2": "15 DE NOVIEMBRE DE 1889 2573" }, "geometry": { "type": "Point", "coordinates": [ -58.3992846, -34.6335629, 0.0 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "name": "Grupo Recaudador S.A", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Rondeau 2858", "address2": "RONDEAU 2858" }, "geometry": { "type": "Point", "coordinates": [ -58.4034663, -34.6354793, 0.0 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "name": "Multivirtual S.A", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Rondeau 2858", "address2": "RONDEAU 2858" }, "geometry": { "type": "Point", "coordinates": [ -58.4034663, -34.6354793, 0.0 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "name": "SEAC", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Caseros 3392, 2 B", "address2": "AV. CASEROS 3392" }, "geometry": { "type": "Point", "coordinates": [ -58.4129369, -34.638501, 0.0 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "name": "RGP", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Caseros 3392, 2 A", "address2": "AV. CASEROS 3392" }, "geometry": { "type": "Point", "coordinates": [ -58.4129369, -34.638501, 0.0 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "name": "PREPAY", "origin": "Nac.", "sector": "SOFTWARE", "status": "En Operación", "address": "Rondeau 2520, 4to A", "address2": "RONDEAU 2520" }, "geometry": { "type": "Point", "coordinates": [ -58.3982191, -34.6345677, 0.0 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "name": "PRAGMATICA TECHNOLOGIES S.A.", "origin": "Nac.", "sector": "SOFTWARE", "status": "En obra", "address": "Almafuerte 63, 4to Piso", "address2": "ALMAFUERTE 63" }, "geometry": { "type": "Point", "coordinates": [ -58.4116163, -34.6390507, 0.0 ] } }
+
+]
+}
